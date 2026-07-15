@@ -8,7 +8,7 @@
 
 ### 📬 Conéctate conmigo
 
-* 📧 **Correo:** [tu-correo@gmail.com](mailto:tu-correo@gmail.com)
+* 📧 **Correo:** [tu-correo@gmail.com](mailto:william.hernandez.ti@gmail.com)
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-hernandez-ti)
 * 🌐 **Portfolio / GitHub Pages:** [Visita mis proyectos](https://wfhgdev.github.io/)
 
