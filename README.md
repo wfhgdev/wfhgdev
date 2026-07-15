@@ -1,20 +1,20 @@
-## ¡Hola! Soy William Hernández 👋
+# Hi there! I'm William Hernández 👋
 
-* 🌱 Actualmente me estoy formando como **Desarrollador Web Full Stack** en **Factoria 5**.
-* 🐧 Me apasiona el entorno **Linux**, el scripting en **Bash**, la virtualización y la administración de redes.
-* 🛠️ Me encanta trastear con optimización de código, traducciones de scripts de código abierto y emulación.
+* 🌱 Currently training as a **Full Stack Web Developer** at **Factoria 5**.
+* 🐧 Passionate about **Linux** environments, **Bash** scripting, virtualization, and network administration.
+* 🛠️ Love tinkering with code optimization, translating open-source scripts, and software emulation.
 
 ---
 
-### 📬 Conéctate conmigo
+### 📬 Connect with me
 
-* 📧 **Correo:** [william.hernandez.ti@gmail.com](mailto:william.hernandez.ti@gmail.com)
+* 📧 **Email:** [william.hernandez.ti@gmail.com](mailto:william.hernandez.ti@gmail.com)
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-hernandez-ti)
-* 🌐 **Portfolio / GitHub Pages:** [Visita mis proyectos](https://wfhgdev.github.io/)
+* 🌐 **Portfolio / GitHub Pages:** [Visit my projects](https://wfhgdev.github.io/)
 
 ---
 
-### Lenguajes y Herramientas 🛠️
+### Languages and Tools 🛠️
 
 #### 💻 Software & Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,26 +61,28 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### Metodologías Ágiles y Entorno de Trabajo
-* **Metodologías:** Scrum | Git / GitHub
+#### Agile Methodologies & Workspace
+* **Methodologies:** Scrum | Git / GitHub
 
-### 📊 Mis Estadísticas de GitHub
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  <!-- Gráfico de Actividad/Contribuciones (Suele ser muy estable) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wfhgdev&theme=dracula" alt="Gráfico de Actividad de GitHub" width="100%">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wfhgdev&theme=dracula" alt="GitHub Activity Graph" width="100%">
 </p>
 
 <p align="center">
-  <!-- Tarjeta de racha de contribuciones (Mucho más estable y rara vez se cae) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wfhgdev&theme=dracula" alt="Racha de GitHub" width="49%">
-
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wfhgdev&theme=dracula" alt="GitHub Streak" width="49%">
+</p>
 
 ---
 
 <p align="center">
-  <!-- Badges de seguidores, estrellas y vistas -->
-  <img src="https://img.shields.io/github/followers/wfhgdev?label=Seguidores&style=flat-square&color=6f42c1" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/wfhgdev?label=Estrellas&style=flat-square&color=2188ff" alt="Estrellas">
-  <img src="https://komarev.com/ghpvc/?username=wfhgdev&color=6f42c1&style=flat-square" alt="Visitas al perfil">
+  <!-- Followers, Stars and Views Badges -->
+  <img src="https://img.shields.io/github/followers/wfhgdev?label=Followers&style=flat-square&color=6f42c1" alt="Followers">
+  <img src="https://img.shields.io/github/stars/wfhgdev?label=Stars&style=flat-square&color=2188ff" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=wfhgdev&color=6f42c1&style=flat-square" alt="Profile views">
 </p>
