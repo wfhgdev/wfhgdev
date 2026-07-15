@@ -44,22 +44,22 @@
 
 <p align="center">
   <!-- Gráfico de Actividad/Contribuciones (Estilo Neon/Dracula) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masterwilledu&theme=dracula" alt="Gráfico de Actividad de GitHub" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wfhgdev&theme=dracula" alt="Gráfico de Actividad de GitHub" width="100%">
 </p>
 
 <p align="center">
   <!-- Tarjeta de Estadísticas de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Masterwilledu&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de Willi" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=wfhgdev&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de Willi" width="48%">
   
   <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterwilledu&layout=compact&theme=dracula&locale=es" alt="Lenguajes más usados" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfhgdev&layout=compact&theme=dracula&locale=es" alt="Lenguajes más usados" width="48%">
 </p>
 
 ---
 
 <p align="center">
   <!-- Badges de seguidores, estrellas y vistas -->
-  <img src="https://img.shields.io/github/followers/Masterwilledu?label=Seguidores&style=flat-square&color=6f42c1" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/Masterwilledu?label=Estrellas&style=flat-square&color=2188ff" alt="Estrellas">
-  <img src="https://komarev.com/ghpvc/?username=Masterwilledu&color=purple&style=flat-square" alt="Visitas al perfil">
+  <img src="https://img.shields.io/github/followers/wfhgdev?label=Seguidores&style=flat-square&color=6f42c1" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/wfhgdev?label=Estrellas&style=flat-square&color=2188ff" alt="Estrellas">
+  <img src="https://komarev.com/ghpvc/?username=wfhgdev&color=purple&style=flat-square" alt="Visitas al perfil">
 </p>
