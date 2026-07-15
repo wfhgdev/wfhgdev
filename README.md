@@ -61,6 +61,7 @@
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Immich](https://img.shields.io/badge/Immich-1377C0?style=for-the-badge&logo=immich&logoColor=white)
 
 #### Agile Methodologies & Workspace
 * **Methodologies:** Scrum | Git / GitHub
