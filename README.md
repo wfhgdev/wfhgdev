@@ -32,6 +32,7 @@
 ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13346B?style=for-the-badge&logo=portainer&logoColor=white)
 ![Dockge](https://img.shields.io/badge/Dockge-131313?style=for-the-badge&logo=docker&logoColor=F0D330)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-20232A?style=for-the-badge&logo=nginx&logoColor=009639)
 
 #### 🔒 Networking & VPNs (Self-Hosted)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88E050?style=for-the-badge&logo=wireguard&logoColor=white)
