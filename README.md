@@ -22,10 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🐳 Docker & Container Management
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,6 +34,7 @@
 
 #### 🔒 Networking & VPNs (Self-Hosted)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88E050?style=for-the-badge&logo=wireguard&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E2E?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-5A3D95?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Headscale](https://img.shields.io/badge/Headscale-24292e?style=for-the-badge&logo=tailscale&logoColor=white)
 
