@@ -39,7 +39,7 @@
 ![Headscale](https://img.shields.io/badge/Headscale-24292e?style=for-the-badge&logo=tailscale&logoColor=white)
 
 #### 🌐 SysAdmin, Virtualization & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57024?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Zentyal](https://img.shields.io/badge/Zentyal-009EE0?style=for-the-badge&logo=linux&logoColor=white)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-A82121?style=for-the-badge&logo=securityscorecard&logoColor=white)
