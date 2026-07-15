@@ -85,5 +85,5 @@
   <!-- Badges de seguidores, estrellas y vistas -->
   <img src="https://img.shields.io/github/followers/wfhgdev?label=Seguidores&style=flat-square&color=6f42c1" alt="Seguidores">
   <img src="https://img.shields.io/github/stars/wfhgdev?label=Estrellas&style=flat-square&color=2188ff" alt="Estrellas">
-  <img src="https://komarev.com/ghpvc/?username=wfhgdev&color=purple&style=flat-square" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=wfhgdev&color=6f42c1&style=flat-square" alt="Visitas al perfil">
 </p>
