@@ -59,10 +59,10 @@
   <!-- Tarjeta de racha de contribuciones (Mucho más estable y rara vez se cae) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wfhgdev&theme=dracula" alt="Racha de GitHub" width="49%">
 
-  <!-- Trofeos de GitHub (Genera dinámicamente tus logros de forma muy estable) -->
+  <!-- Trofeos de GitHub (Genera dinámicamente tus logros de forma muy estable) 
   <img src="https://github-profile-trophy.vercel.app/?username=wfhgdev&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Trofeos de GitHub" width="49%">
 </p>
-
+-->
 ---
 
 <p align="center">
