@@ -1,14 +1,14 @@
 ## ¡Hola! Soy William Hernández 👋
 
 * 🌱 Actualmente me estoy formando como **Desarrollador Web Full Stack** en **Factoria 5**.
-* 🐧 Me apasiona el entorno **Linux**, el scripting en **Bash**, la virtualización y la administración de redes domésticas.
+* 🐧 Me apasiona el entorno **Linux**, el scripting en **Bash**, la virtualización y la administración de redes.
 * 🛠️ Me encanta trastear con optimización de código, traducciones de scripts de código abierto y emulación.
 
 ---
 
 ### 📬 Conéctate conmigo
 
-* 📧 **Correo:** [tu-correo@gmail.com](mailto:william.hernandez.ti@gmail.com)
+* 📧 **Correo:** [william.hernandez.ti@gmail.com](mailto:william.hernandez.ti@gmail.com)
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-hernandez-ti)
 * 🌐 **Portfolio / GitHub Pages:** [Visita mis proyectos](https://wfhgdev.github.io/)
 
@@ -51,16 +51,16 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <!-- Gráfico de Actividad/Contribuciones (Estilo Neon/Dracula) -->
+  <!-- Gráfico de Actividad/Contribuciones (Suele ser muy estable) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wfhgdev&theme=dracula" alt="Gráfico de Actividad de GitHub" width="100%">
 </p>
 
 <p align="center">
-  <!-- Tarjeta de Estadísticas de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wfhgdev&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de Willi" width="48%">
-  
-  <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfhgdev&layout=compact&theme=dracula&locale=es" alt="Lenguajes más usados" width="48%">
+  <!-- Tarjeta de racha de contribuciones (Mucho más estable y rara vez se cae) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wfhgdev&theme=dracula" alt="Racha de GitHub" width="49%">
+
+  <!-- Trofeos de GitHub (Genera dinámicamente tus logros de forma muy estable) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=wfhgdev&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Trofeos de GitHub" width="49%">
 </p>
 
 ---
